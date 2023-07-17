@@ -3,7 +3,7 @@
 
 
 
-<h1 align=center>3d-Animated/h1>
+<h1 align=center>3d-Animated</h1>
 
 
 # Hi, I'm Mohd Yasir Sheikh! 👋
